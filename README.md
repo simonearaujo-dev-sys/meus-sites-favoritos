@@ -9,5 +9,5 @@
  - *Mercado Livre* — Compras online
  - *Amazon* — Compras online
  ## ✍️ Autor
- Simone Araújo
+ Simone Araujo
  Curso: Desenvolvimento de Sistemas
